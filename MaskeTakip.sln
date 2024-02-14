@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAround", "WorkAround\WorkAround.csproj", "{7AA87116-2060-43E7-B79E-C504B1B5A9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A866DAA7-2F07-4324-8121-9A3BA29D20B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussines", "Bussines\Bussines.csproj", "{B65AA9B2-B0B7-47FB-B8B9-B50168A4F9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA87116-2060-43E7-B79E-C504B1B5A9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA87116-2060-43E7-B79E-C504B1B5A9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA87116-2060-43E7-B79E-C504B1B5A9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA87116-2060-43E7-B79E-C504B1B5A9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A866DAA7-2F07-4324-8121-9A3BA29D20B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A866DAA7-2F07-4324-8121-9A3BA29D20B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A866DAA7-2F07-4324-8121-9A3BA29D20B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A866DAA7-2F07-4324-8121-9A3BA29D20B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65AA9B2-B0B7-47FB-B8B9-B50168A4F9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65AA9B2-B0B7-47FB-B8B9-B50168A4F9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65AA9B2-B0B7-47FB-B8B9-B50168A4F9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65AA9B2-B0B7-47FB-B8B9-B50168A4F9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749189B5-F499-4787-827E-B0487CB8EF31}
+	EndGlobalSection
+EndGlobal
